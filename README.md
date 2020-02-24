@@ -1,7 +1,7 @@
 # Mission to Mars
 
 
-In the following project, a web application was build that scrapes various websites for data related to the Mission to Mars and displays the information in a single HTML page. 
+In the following project, a web application was built that scrapes various websites for data related to the Mission to Mars and displays the information in a single HTML page. 
 
 The below guidelines were used:
 
